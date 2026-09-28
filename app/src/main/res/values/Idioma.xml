@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="lista_idiomas">
+        <item>Seleccionar idioma</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>Català</item>
+    </string-array>
 </resources>
